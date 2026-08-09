@@ -92,7 +92,7 @@ Install with `pip install -r requirements.txt`.
 
 | ECG wave anatomy | Grad-CAM collapse | ST-segment reversal |
 |:---:|:---:|:---:|
-| ![anatomy](figures/fig_ecg_anatomy.png) | *(generated in notebook)* | ![st](figures/fig_st_asymmetry.png) |
+| ![anatomy](figures/fig_ecg_anatomy.png) | ![collapse](figures/fig_gradcam_collapse.png) | ![st](figures/fig_st_asymmetry.png) |
 
 ## Citation
 
